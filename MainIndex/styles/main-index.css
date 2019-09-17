@@ -5,28 +5,33 @@
   border: 3px dashed black;
   background-image:url("../images/wall-image72px.jpg");
   font-family: 'Neucha', cursive;
-  margin: 10px auto;
+  margin: 0px auto;
+  margin-top: 0px;
+
 }
 
 li{display:inline-block;
 margin: 20px;
-
+padding: 10px;
 }
 header
 {
 text-align: center;
 padding: 10px;
 
+}
+
+h1
+
+{
+  font-size: 5em;
+  text-shadow: 3px 3px 3px white;
 
 }
-h1
-{
-  font-stretch: extra-expanded;
-  font-size: 5em;
-}
-li
+#navelem
 {
   font-size: 3em;
   margin: 70px 80px;
   padding: 10px;
+  color: black;
 }
