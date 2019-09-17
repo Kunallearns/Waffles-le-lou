@@ -1,17 +1,32 @@
 .page
 {
   width: 960px;
-  height: 960px;
+  height: 720px;
   border: 3px dashed black;
-  background-color:;
   background-image:url("../images/wall-image72px.jpg");
-  text-align: center;
-  background-repeat:no-repeat;
-  margin: 0px auto;
   font-family: 'Neucha', cursive;
+  margin: 10px auto;
 }
 
 li{display:inline-block;
 margin: 20px;
 
+}
+header
+{
+text-align: center;
+padding: 10px;
+
+
+}
+h1
+{
+  font-stretch: extra-expanded;
+  font-size: 5em;
+}
+li
+{
+  font-size: 3em;
+  margin: 70px 80px;
+  padding: 10px;
 }
