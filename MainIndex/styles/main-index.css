@@ -1,0 +1,17 @@
+.page
+{
+  width: 960px;
+  height: 960px;
+  border: 3px dashed black;
+  background-color:;
+  background-image:url("../images/wall-image.png");
+  text-align: center;
+  background-repeat:no-repeat;
+  margin: 0px auto;
+  font-family: 'Neucha', cursive;
+}
+
+li{display:inline-block;
+margin: 20px;
+
+}
